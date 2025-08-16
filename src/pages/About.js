@@ -5,9 +5,16 @@ import './About.css';
 const About = () => {
   const teamMembers = [
     {
-      name: 'Shoaib Nustaque',
+      name: 'soumojit dutta',
       role: 'CEO & Founder',
-      bio: 'Former Google engineer with 15+ years of experience in software development and team leadership.',
+      bio: 'Former Google engineer with 150+ years of experience in software development and team leadership.',
+      expertise: ['Strategic Planning', 'Team Leadership', 'Product Vision'],
+      avatar: '👩‍💼'
+    },
+    {
+      name: 'rishi',
+      role: 'Co Founder',
+      bio: 'Former Google engineer with 150+ years of experience in software development and team leadership.',
       expertise: ['Strategic Planning', 'Team Leadership', 'Product Vision'],
       avatar: '👩‍💼'
     },
